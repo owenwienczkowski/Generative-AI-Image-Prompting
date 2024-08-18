@@ -1,0 +1,47 @@
+{
+    "Vending Machine 1": {
+        "Snacks:**  Chips/crisps (multiple bags), possibly pretzels": [],
+        "Candy:** Chocolate bars (various), gummy candy (Haribo)": [],
+        "Beverages": [
+            "Water (multiple brands)",
+            "Sparkling water",
+            "Soda (various)"
+        ]
+    },
+    "Vending Machine 2": {
+        "Candy": [
+            "Gummy Candy (Haribo)",
+            "Chocolate Bars (Twix, Snickers, possibly others)",
+            "Other chocolate candy"
+        ],
+        "Snacks": [
+            "Chips/Crisps (multiple bags)",
+            "Crackers/Pretzels",
+            "Other savory snacks"
+        ],
+        "Beverages": [
+            "Soda",
+            "Juice",
+            "Energy Drink"
+        ]
+    },
+    "General Categories": {
+        "Snacks:**  Chips, pretzels, crackers, popcorn, nuts, trail mix": [],
+        "Candy:**  Chocolate bars, gummy candy, hard candy, chewing gum": [],
+        "Chocolate:**  Separate from \"candy\", might feature higher-end brands": [],
+        "Beverages": [
+            "Soda",
+            "Water (still and sparkling)",
+            "Juice",
+            "Energy drinks",
+            "Sports drinks",
+            "Tea & Coffee (sometimes)"
+        ],
+        "Other:**  Some machines might include": [
+            "Granola bars",
+            "Cookies",
+            "Gum",
+            "Non-food items (batteries, headphones, etc.)"
+        ]
+    }
+}
