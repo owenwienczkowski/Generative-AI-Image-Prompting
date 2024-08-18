@@ -1,0 +1,1 @@
+This project uses Google Gemini API to analyze imported images and provide details from within the images. The generative AI tool produces its output as categories specific to the images. The output is parsed and exported as a JSON file.
